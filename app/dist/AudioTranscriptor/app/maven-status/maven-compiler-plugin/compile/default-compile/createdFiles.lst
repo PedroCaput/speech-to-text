@@ -1,0 +1,8 @@
+com\transcriptor\gui\MainFrame.class
+com\transcriptor\gui\MainFrame$1.class
+com\transcriptor\service\DocxExporter.class
+com\transcriptor\Main.class
+com\transcriptor\service\AssemblyAIService$ProgressCallback.class
+com\transcriptor\config\AppConfig.class
+com\transcriptor\service\AssemblyAIService.class
+com\transcriptor\model\Utterance.class
